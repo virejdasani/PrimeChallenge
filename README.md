@@ -1,4 +1,5 @@
 Name: Virej Dasani
+
 Email: dasanivirej@gmail.com
 
 ## Assumptions made
@@ -41,3 +42,5 @@ The file will look like this after the first run:
 ```
 Prime Numbers in sequence: [2, 3, 5, 23]
 ```
+
+Tests are under tests/PrimeCheckerTest.java
